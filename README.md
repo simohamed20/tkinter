@@ -1,1 +1,2 @@
-# tkinter
+projet application avec un interface tkinter 
+l'application classiffier les documents automatique (d'extention .pdf ) dans des trois categories cv tp autre ...
